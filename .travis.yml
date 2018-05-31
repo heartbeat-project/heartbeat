@@ -10,7 +10,7 @@ before_script:
   - pip install coveralls
 
 env:
-  - DB_NAME=heartbeat_test DB_USER=postgres DB_HOST='127.0.0.1' SECRET_KEY='supersecret' DEBUG='True'
+  - DB_NAME=heartbeat_test DB_USER=postgres DB_HOST='127.0.0.1' SECRET_KEY='' DEBUG='True'
 
 
 script:
