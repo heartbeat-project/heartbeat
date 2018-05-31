@@ -3,6 +3,9 @@
 - **Open Source Project Lead** Keith Eckert
 - **Version**: 0.1.1
 
+### Contact Us
+- **email**: [heartbeat.opensource@gmail.com]
+
 
 [![Coverage Status](https://coveralls.io/repos/github/lwb-connect/lwb_heartbeat/badge.svg?branch=development)](https://coveralls.io/github/lwb-connect/lwb_heartbeat?branch=development)
 
@@ -115,3 +118,4 @@ None at this time
 | 27599b8 | Merge pull request #10 from lwb-connect/mon-images |
 | e347217 | fixing ansible |
 | e3e5dd0 | Merge pull request #9 from lwb-connect/jay-05-21-travis |
+| 78d05d2 | Open Source Prepertions |
