@@ -1,7 +1,7 @@
 # Heartbeat
-**Original Authors** : Patricia Raftery, Keith Eckert and Jay Adams
-**Open Source Project Lead** Keith Eckert
-**Version**: 0.1.1
+- **Original Authors** : Patricia Raftery, Keith Eckert and Jay Adams
+- **Open Source Project Lead** Keith Eckert
+- **Version**: 0.1.1
 
 
 [![Coverage Status](https://coveralls.io/repos/github/lwb-connect/lwb_heartbeat/badge.svg?branch=development)](https://coveralls.io/github/lwb-connect/lwb_heartbeat?branch=development)
@@ -15,11 +15,16 @@
 Heartbeat is a logistics and data managment web application being built for an international charity that provides hope and healing to orphaned and vulnerable children, and their underserved communities, through its education, nutrition, medical, and foster care programs.  
 
 Heartbeat's goals:
-    ..* Automate and streamline  data input from users across the world.
-    ..* Make data useful and meaningful to help them fulfull their primary mission.
-    ..* Provide tracking and reporting for people, children and programs in their care.
-    ..* Allow staff access only to data within their work scope.
-    ..* Always keep this data safe and secure.
+
+* Automate and streamline data input from users across the world.
+
+* Make data useful and meaningful to help them fulfull their primary mission.
+
+* Provide tracking and reporting for people, children and programs in their care.
+
+* Allow staff access only to data within their work scope.
+
+* Always keep this data safe and secure.
 
 ![Current Heartbeat Front Page](/assets/heartbeatfrontpage.png)
 
@@ -69,6 +74,7 @@ None at this time
 
 ## Change log
 | pull | comment|
+| --------- |:--------------------------------------------:|
 | 18950bb | (HEAD -> jay-tues-child)  fix readme.md |
 | d4578bc | (origin/development, origin/HEAD) Merge pull request #17 from lwb-connect/jay-tues-child |
 | 9c514b8 | (origin/jay-tues-child) clean up doc strings |
