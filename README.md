@@ -26,11 +26,30 @@ Heartbeat's goals:
 
 * Always keep this data safe and secure.
 
+
+
 ![Current Heartbeat Front Page](/assets/heartbeatfrontpage.png)
 
 
-## Contributing
+![Current Database Model](/assets/ERD_entity_relationship_diagram.png)
 
+
+## Contributing
+---------------
+
+* We welcome and encourage contributions to Heartbeat.  Together we can make this world a little better!
+
+* First, please read and agree to our [Code of Conduct](/code-of-conduct.md).
+
+### How to Contribute
+
+* A great place to start is with the Issues tab in this repository.  
+
+* Take a look at labels ```enhancement, bug, testing, future``` and check to see if an issue has been assigned before starting.  
+
+* Always make sure you are using the current deployment code in the master branch.  
+
+* For a contribution (pull request) to be considered, please document and test all code.
 
 
 ## Getting Started
