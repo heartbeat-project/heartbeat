@@ -29,6 +29,7 @@ Heartbeat's goals:
 
 * Always keep this data safe and secure.
 
+* Make a tool that enables staff to fulfill their roles.  
 
 
 ![Current Heartbeat Front Page](/assets/heartbeatfrontpage.png)
