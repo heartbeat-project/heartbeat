@@ -1,5 +1,9 @@
 # Contributor Covenant Code of Conduct
 
+## Summary:
+
+Treat everyone with kindness.  Act in a professional manner to everyone.  Don't be a jerk.  
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
